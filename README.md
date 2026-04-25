@@ -3,6 +3,8 @@
 AES-128 encryption and decryption implemented in **SystemC 2.3.3**, where the SubBytes operation is computed entirely through **GF(2⁸) algebraic equations** — no precomputed lookup tables anywhere in the design.
 
 > **22 PASS | 0 FAIL** — verified against NIST FIPS-197 official test vectors.
+<img width="1600" height="299" alt="WhatsApp Image 2026-04-15 at 10 42 59 PM" src="https://github.com/user-attachments/assets/b11c2d69-7b42-4141-9f8c-a9328ecf0cd3" />
+
 
 ***
 
